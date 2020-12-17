@@ -1,0 +1,56 @@
+[1] 3Blue1Brown. But what is a Neural Network? — Deep learning, chapter 1. https:
+//www.youtube.com/watch?v=aircAruvnKk&feature=youtu.be. October 5,
+2017.
+[2] 3Blue1Brown. Gradient descent, how neural networks learn — Deep learning, chapter
+2. https://www.youtube.com/watch?v=IHZwWFHWa-w&feature=youtu.be.
+October 16, 2017.
+[3] baeldung. How ReLU and Dropout Layers Work in CNNs. https://www.baeldung.
+com/cs/ml-relu-dropout-layers. August 13, 2020.
+[4] Gotam Dahiya. Hands-On Guide To Implement Batch Normalization in Deep Learning
+Models. https://analyticsindiamag.com/hands-on-guide-to-implement-
+batch-normalization-in-deep-learning-models/. July 15, 2020.
+[5] Tanya Dayanand. Data Preprocessing and Network Building in CNN. https : / /
+towardsdatascience.com/data- preprocessing- and- network- building-
+in-cnn-15624ef3a28b. August 24.
+[6] S. asif Hussain. A real time face emotion classification and recognition using deep
+learning model. https://www.researchgate.net/publication/338431245_A_
+real_time_face_emotion_classification_and_recognition_using_deep_
+learning_model. July 15, 2020.
+[7] KARTHICKRAJA. OpenCV Python Tutorial — Creating Face Detection System And
+Motion Detector Using OpenCV — Edureka. https://www.youtube.com/watch?
+v=-ZrDjwXZGxI. September 28, 2018.
+[8] KARTHICKRAJA. Tinker With a Neural Network Right Here in Your Browser. Donˆat
+Worry, You Canˆat Break It. We Promise. https://playground.tensorflow.org/
+#activation=relu&batchSize=10&dataset=xor&regDataset=reg- plane&
+learningRate=0.03&regularizationRate=0&noise=0&networkShape=6,2&
+seed=0.02517&showTestData=false&discretize=false&percTrainData=50&
+x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=
+false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=
+classification&initZero=false&hideText=false. September 28, 2018.
+[9] Federico Peccia. Batch normalization: theory and how to use it with Tensorflow.
+https : / / towardsdatascience . com / batch - normalization - theory - and -
+how-to-use-it-with-tensorflow-1892ca0173ad. September 16 2018.
+[10] Ricardo. Direct access to your webcam and microphone inside Google Colab notebook.
+https://ricardodeazambuja.com/deep_learning/2019/03/09/audio_
+and_video_google_colab/. March 9, 2019.
+[11] Anuj shah. Downloading all images from google image search, all at once. https:
+//www.youtube.com/watch?v=fRmGqxOEBi4. April 13, 2019.
+[12] Anuj shah. Feeding your own data set into the CNN model in Keras. https://www.
+youtube.com/watch?v=2pQOXjpO_u0. May 29 2016.
+[13] FAIZAN SHAIKH. Building a Face Detection Model from Video using Deep Learning
+(Python Implementation. https://www.analyticsvidhya.com/blog/2018/
+12/introduction-face-detection-video-deep-learning-python/. December
+10, 2018.
+[14] Jun Wang; Lijun Yin; Xiaozhou Wei; Yi Sun. 3D Facial Expression Recognition
+Based on Primitive Surface Feature Distribution. https : / / ieeexplore . ieee .
+org/abstract/document/1640921. October 9, 2006.
+[15] Tim. TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial.
+https://www.youtube.com/watch?v=tPYj3fFJGjk. Mar 3, 2020.
+[16] PRUDHVI VARMA. Hands-On Guide To Implement Batch Normalization in Deep
+Learning Models. https://analyticsindiamag.com/hands- on- guide- to-
+implement-batch-normalization-in-deep-learning-models/. July 25, 2020.
+[17] Rohit Verma. Hands-On Guide To Implement Batch Normalization in Deep Learning
+Models. https://analyticsindiamag.com/hands-on-guide-to-implement-
+batch-normalization-in-deep-learning-models/. May 26, 2018.
+[18] Neha Yadav. Realtime Emotion Analysis Using Keras. https://www.youtube.com/
+watch?v=DtBu1u5aBsc. Jun 16, 2019.
