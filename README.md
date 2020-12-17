@@ -1,2 +1,4 @@
 # COGNITIVE-STATE-ESTIMATION-FOR-ONLINE-MEETINGS-USING-MACHINE-LEARNING
-This is senior project as an undergraduate student. For description and more information, please go back and a file called "senior 2 Presentation 20".
+This is senior project as an undergraduate student. In this project we prepared two typed of dataset csv dataset and grayscale Kaggle dataset for 6 different facial expressions. Then, we designed an Architecture model using CNN to recognize these different facial expressions (happy, sad, neutral, surprise, fear, and angry). We have achieved around 70% accuracy for the 6 different emotions and about 90% accuracy for 3 different emotions. we have tested the weights by creating json file.  After that, we applied it to different images. Also, we got interesting results by applying the model's results in webcam real time video for recognizing the face and printing out the result of the emotion on screen.
+
+For detailed description and more information, please go back and download file called "senior 2 Presentation 20".
